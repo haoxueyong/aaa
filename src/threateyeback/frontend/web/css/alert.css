@@ -1,0 +1,20 @@
+.alert-echart {
+  margin-bottom: 10px;
+}
+
+.alert-echart-content {
+  background-color: #fff;
+  border-radius: 3px;
+  height: 200px;
+}
+
+#alertEchart {
+  height: 200px;
+  width: 100%;
+  
+}
+td, th {
+    white-space: nowrap;
+    /* overflow: hidden; */
+    text-overflow: ellipsis;
+}

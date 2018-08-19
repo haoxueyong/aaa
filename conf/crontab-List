@@ -1,0 +1,3 @@
+1   *  * * *  php /web/src/threateyeback/yii alert/every-hour
+45  1  * * *  php /web/src/threateyeback/yii task/every-day
+45 */6 * * *  php /web/src/threateyeback/yii task/every-six-hour

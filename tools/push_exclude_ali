@@ -1,0 +1,10 @@
+backend/runtime/
+frontend/runtime/
+console/runtime/
+
+common/config/
+backend/config/
+frontend/config/
+console/config/
+
+php_errors.log

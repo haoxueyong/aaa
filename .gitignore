@@ -1,0 +1,10 @@
+.vagrant/
+
+static/
+
+log/
+/src/nbproject/private/
+.vscode/ftp-sync.json
+.vscode/sftp.json
+.history/
+/src/vendor/

@@ -1,0 +1,12 @@
+[Unit]
+Description=iCatch-init
+After=mysqld.service
+
+[Service]
+Type=forking
+ExecStart=/web/conf/init.sh
+ExecReload=/web/conf/init.sh
+ExecStop=echo ''
+
+[Install]
+WantedBy=multi-user.target
